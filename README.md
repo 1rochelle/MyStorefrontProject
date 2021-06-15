@@ -9,7 +9,7 @@ USAGE Utilize Visual Studio Code for this project.
 
 CONTRIBUTING Rochelle Deulley
 
-CREDITS Smart Grocery List: Image from by. URL in assets folder. FlusherFinder: Image from by. URL in assets folder. In Defense of Planet Earth: image credits on website. Spider-Elmo: Image from wallpapertip.com by wmimgs. URL https://www.wallpapertip.com/wmimgs/158-1582458_new-york-spider-man-ps4.jpg. The Insatiably Hungry Snake Game: Image screenshot from console app. Agile Group Project: Image screenshot from trello board.
+CREDITS Image "Free photo Kid Field Girl Little Girl Sweater Dandelion" from Max Pixel by Nikon D700. URL https://www.maxpixel.net/Kid-Field-Girl-Little-Girl-Sweater-Dandelion-1387118. All other images taken as screenshots from their original location; follow the link underneath each picture to view.
 
 LICENSE MIT License
 
